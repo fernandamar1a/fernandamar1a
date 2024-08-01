@@ -1,4 +1,4 @@
-- 👋 oi meu nome é maria fernanda
+- 👋 oi meu nome é Maria Fernanda
 - 👀 estou estudando na alura
 - 🌱 estou estudando no scratch
 - 💞️ moro em pindamonhangaba-sp
